@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-
 class RowColCont extends StatelessWidget {
   const RowColCont({super.key});
   Row getRowView()
